@@ -13,6 +13,5 @@ int main()
     {
         printf("the letter %c appeared %d times\n",i+97,countarr[i]);
     }
-    return 0;
-}
+    return 0;}
 
