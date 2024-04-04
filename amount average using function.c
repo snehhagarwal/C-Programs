@@ -22,6 +22,5 @@ int main()
     scanf("%d%d",&num,&digit);
     totalnumber,average=max(num,digit);
     printf("%d\n%f",totalnumber,average);
-    return 0;
-}
+    return 0;}
 
