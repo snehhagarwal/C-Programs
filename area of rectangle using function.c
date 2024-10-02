@@ -1,5 +1,4 @@
 #Code-->
-
 #include <stdio.h>
 float area(float h,float w)
 {   float area_rect;
