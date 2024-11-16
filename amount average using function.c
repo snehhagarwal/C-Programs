@@ -1,5 +1,4 @@
 #Code-->
-
 #include <stdio.h>
 float max(int num,int digit)
 {   int r,c=0,s=0;
